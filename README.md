@@ -1,7 +1,7 @@
 [![Anurag's github stats][starts]][profile]
 
 [![wiki](https://img.shields.io/badge/arduino-trafficlight-brightgreen?style=plactic&logo=arduino)](https://github.com/danmirror/traffic-light-arduino)
-[![instagram](https://img.shields.io/badge/phantomjs-loadspeed-ff69b4?style=plactic&logo=javascript)](https://github.com/danmirror/phantomjs-loadspeed)
+[![instagram](https://img.shields.io/badge/phantomjs-loadspeed-yellow?style=plactic&logo=javascript)](https://github.com/danmirror/phantomjs-loadspeed)
 [![website](https://img.shields.io/badge/laravel-IOT-9cf?style=plactic&logo=laravel)](https://github.com/danmirror/laravel-pressure)
 
 [starts]: https://github-readme-stats.vercel.app/api?username=danmirror&theme=bear&show_icons=true&count_private=false&hide=contribs,issues,prs,stars
