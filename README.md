@@ -4,7 +4,7 @@
 [![instagram](https://img.shields.io/badge/danu-instagram-ff69b4?style=plactic&logo=instagram)](https://www.instagram.com/rscuad.uad/)
 [![website](https://img.shields.io/badge/website-9cf?style=plactic&logo=google)](https://me-danuandrean.github.io)
 
-[starts]: https://github-readme-stats.vercel.app/api?username=rscuad&theme=bear&show_icons=true&count_private=false&hide=contribs,issues,prs,stars
+[starts]: https://github-readme-stats.vercel.app/api?username=danmirror&theme=bear&show_icons=true&count_private=false&hide=contribs,issues,prs,stars
 [profile]:https://me-danuandrean.github.io
 <!--
 
