@@ -1,6 +1,6 @@
 [![Anurag's github stats][starts]][profile]
 
-[![wiki](https://img.shields.io/badge/traffic light-brightgreen?style=plactic&logo=wikipedia)](https://github.com/danmirror/traffic-light-arduino)
+[![wiki](https://img.shields.io/badge/i-traffic light-brightgreen?style=plactic&logo=wikipedia)](https://github.com/danmirror/traffic-light-arduino)
 [![instagram](https://img.shields.io/badge/danu-instagram-ff69b4?style=plactic&logo=instagram)](https://www.instagram.com/rscuad.uad/)
 [![website](https://img.shields.io/badge/website-9cf?style=plactic&logo=google)](https://me-danuandrean.github.io)
 
