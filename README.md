@@ -5,8 +5,9 @@
 - 🌱 Hardware interaction enthusiast with code
 - 👯 I’m looking to collaborate on robotic and cloud domain for OSS
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DanuAndrean-9cf?style=plactic&logo=LinkedIn)](https://www.linkedin.com/in/danu-andrean/)
+[![codewar](https://www.codewars.com/users/danmirror/badges/small)](https://www.codewars.com/users/danmirror)
+
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
